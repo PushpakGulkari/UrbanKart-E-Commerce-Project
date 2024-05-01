@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - EcommerceWebProject</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/EcommerceWebProject.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/3c23f78e0a.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.datatables.net/1.13.7/css/jquery.d  ataTables.min.css"/>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-black shadow-5-strong" data-bs-theme="dark">
+            <div class="container-fluid">
+                <a class="navbar-brand text-warning" asp-area="" asp-controller="Home" asp-action="Index">UrbanKart</a>
+              
+                @* UrbanKart *@
+
+
+                @* <img  src="~/images/main.svg" style="width:220px; height:70px" class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"/> *@
+
+
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarColor01">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="IndexCopy">Products</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="Contact">Contact</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="Customer" asp-controller="Home" asp-action="Privacy">Team</a>
+                        </li>
+
+                        @if (User.IsInRole(StaticDetails.Role_Admin))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-white" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Site Management</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Category" asp-action="Index">Category Details</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Product" asp-action="Index">Product Details</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Company" asp-action="Index">Company Details</a>
+                                    <a class="dropdown-item" asp-area="Identity" asp-page="/Account/Register">Create User</a>
+                                </div>
+                            </li>
+                        }
+
+
+                        @if (User.IsInRole(StaticDetails.Role_Customer))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-white" asp-area="Customer" asp-controller="Cart" asp-action="Index"><i class="fa-solid fa-cart-shopping  fa-xl" style="color: #fff;"></i></a>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial"/>
+                    @* <form class="d-flex">
+                        <input class="form-control me-sm-2 rounded shadow bg-white btn-outline-dark rounded-pill" type="search" placeholder="Search">
+                        <button type="submit" class="btn btn-outline-white shadow rounded-pill">Search</button>
+                    </form> *@
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="//cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+<footer class="bg-black text-white border-top mb-0">
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-md-4">
+                    <h5 style="color: white; font-weight: bold">Navigation </h5>
+                <ul class="list-unstyled">
+                        <li><a href="https://localhost:4500/" style="color: white; text-decoration: none">Home</a></li>
+                        <li><a href="https://localhost:4500/Customer/Home/IndexCopy" style="color: white; text-decoration: none">Shop</a></li>
+                        <li><a href="https://localhost:4500/Customer/Home/About" style="color: white; text-decoration: none">About Us</a></li>
+                        <li><a href="https://localhost:4500/Customer/Home/Contact" style="color: white; text-decoration: none">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                    <h5 style="color: white; font-weight: bold">Follow Us</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" style="color: white; text-decoration: none"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+                    <li><a href="#" style="color: white; text-decoration: none"><i class="fab fa-twitter"></i> Twitter</a></li>
+                    <li><a href="#" style="color: white; text-decoration: none"><i class="fab fa-instagram"></i> Instagram</a></li>
+                    <li><a href="#" style="color: white; text-decoration: none"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                    <h5 style="color: white; font-weight: bold">Contact Us</h5>
+                <address style="color: white;">
+                    123 Main Street<br>
+                    City, State, Zip<br>
+                    Phone: (123) 456-7890<br>
+                    Email: info@example.com
+                </address>
+            </div>
+        </div>
+        <hr/>
+        <div class="row">
+            <div class="col-12 text-center">
+                <p style="color: white;">&copy; 2024 UrbanKart E-commerce Website. All rights reserved.</p>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+</body>
+
+</html>

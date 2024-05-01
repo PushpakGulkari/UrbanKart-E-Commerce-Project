@@ -1,0 +1,85 @@
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+E:\CDAC\.NET_and_C#\c#_VS_Code\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+C:\Cdac\dot net project\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\DotNET\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+C:\Users\sohel\Desktop\Sabiha\Dot Net Project\UpdatedOne\EcommerceWebDemo\EcommerceWebDemo\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+C:\Users\gulka\Desktop\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\DotNET\EcommerceWebzip\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.deps.json
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\bin\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.AssemblyReference.cache
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfoInputs.cache
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.AssemblyInfo.cs
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.csproj.CoreCompileInputs.cache
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.sourcelink.json
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.dll
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\refint\Variable.Utility.dll
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\Variable.Utility.pdb
+D:\CDAC\FINAL PROJECTS\Ecommerce-Online-Shopping\EcommerceWeb\Variable.Utility\obj\Debug\net8.0\ref\Variable.Utility.dll

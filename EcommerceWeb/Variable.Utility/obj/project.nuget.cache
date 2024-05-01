@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGf5YPA9CqnJDN6DTKdNWMjyz2whfjG3vOhayurTrIhGxmB9FcD9g/L5RTaL+NtYLoQDxwUmTW6VYqOBzb8yDg==",
+  "success": true,
+  "projectFilePath": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.1\\microsoft.aspnetcore.cryptography.internal.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.1\\microsoft.aspnetcore.cryptography.keyderivation.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\microsoft.aspnetcore.identity.ui.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.1\\microsoft.extensions.fileproviders.embedded.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.1\\microsoft.extensions.identity.core.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.1\\microsoft.extensions.identity.stores.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.options\\8.0.1\\microsoft.extensions.options.8.0.1.nupkg.sha512",
+    "C:\\Users\\gulka\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

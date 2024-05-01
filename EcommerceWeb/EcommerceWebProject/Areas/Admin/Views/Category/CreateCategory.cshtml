@@ -1,0 +1,46 @@
+﻿@model Category
+
+<form method="post">
+
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100 border-50">
+            <div class="col">
+                <div class="card card-registration my-4">
+                    <div class="row g-0">
+                        <div class="col-xl-6 d-none d-xl-block">
+                            <img src="~/images/Create Category.svg"
+                                 alt="Sample photo" class="img-fluid"
+                                 style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem;" />
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card-body p-md-5 text-black">
+                                <h3 class="mb-5 text-uppercase">Create New Category</h3>
+                                <div asp-validation-summary="ModelOnly"></div>
+                                <div class="form-outline mb-3">
+                                    <label asp-for="Name" class="form-label"></label>
+                                    <input asp-for="Name" type="text" id="form3Example8" class="form-control form-control-lg shadow " style="height: 40px;" />
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                                <div class="form-outline mb-3">
+                                    <label asp-for="DisplayOrder" class="form-label"></label>
+                                    <input asp-for="DisplayOrder" type="number" id="form3Example8" class="form-control form-control-lg shadow " style="height: 40px;" />
+                                    <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+                                </div>
+                                <div class="d-flex justify-content-end pt-3">
+                                    <a asp-controller="Category" asp-action="Index" class="btn btn-info btn-md ms-2 rounded-pill"><i class="fa-solid fa-backward fa-xl"></i> Back to List</a>
+                                    <button type="submit" class="btn btn-success btn-md ms-2 rounded-pill"><i class="fa-solid fa-check fa-xl" style="color: #ffffff;"></i> Add Category</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

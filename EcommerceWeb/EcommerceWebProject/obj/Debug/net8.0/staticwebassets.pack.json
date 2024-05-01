@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceWebProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceWebProject.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\098_Venkatesh Pujari_jh jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\098_Venkatesh Pujari_jh jpg.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\230940520007_Aniket_Pardeshi_JH2.jpg",
+      "PackagePath": "staticwebassets\\images\\230940520007_Aniket_Pardeshi_JH2.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Add Product.svg",
+      "PackagePath": "staticwebassets\\images\\Add Product.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Category.svg",
+      "PackagePath": "staticwebassets\\images\\Create Category.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Company.svg",
+      "PackagePath": "staticwebassets\\images\\Create Company.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Delete Category.jpg",
+      "PackagePath": "staticwebassets\\images\\Delete Category.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\IMG-20231231-WA0007.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG-20231231-WA0007.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Order Placed1.jpg",
+      "PackagePath": "staticwebassets\\images\\Order Placed1.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\OrderPlaced2.jpg",
+      "PackagePath": "staticwebassets\\images\\OrderPlaced2.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\about.svg",
+      "PackagePath": "staticwebassets\\images\\about.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\computer-security-with-login-password-padlock.jpg",
+      "PackagePath": "staticwebassets\\images\\computer-security-with-login-password-padlock.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\contact.svg",
+      "PackagePath": "staticwebassets\\images\\contact.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\main.svg",
+      "PackagePath": "staticwebassets\\images\\main.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\orderconfarmation.jpg",
+      "PackagePath": "staticwebassets\\images\\orderconfarmation.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\05e7efa4-544d-49fe-bc79-fc69f7b23fca.webp",
+      "PackagePath": "staticwebassets\\images\\product\\05e7efa4-544d-49fe-bc79-fc69f7b23fca.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\09e3bfbf-bf90-45fe-b5a7-afff8ecfe454.webp",
+      "PackagePath": "staticwebassets\\images\\product\\09e3bfbf-bf90-45fe-b5a7-afff8ecfe454.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\146f8e27-ace0-45ac-b31a-8aa08a6005c0.webp",
+      "PackagePath": "staticwebassets\\images\\product\\146f8e27-ace0-45ac-b31a-8aa08a6005c0.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\40b302c9-b0d4-4746-b6c5-ac26a3b9ed9c.webp",
+      "PackagePath": "staticwebassets\\images\\product\\40b302c9-b0d4-4746-b6c5-ac26a3b9ed9c.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\4fdb8638-af56-453d-9529-1555c1bd94bc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4fdb8638-af56-453d-9529-1555c1bd94bc.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\583d3502-b857-436f-9f14-9ecc0c79b275.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\583d3502-b857-436f-9f14-9ecc0c79b275.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\68aa3463-2d65-411f-a0ef-9ad9354e47ad.webp",
+      "PackagePath": "staticwebassets\\images\\product\\68aa3463-2d65-411f-a0ef-9ad9354e47ad.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\7af240b0-bdcc-4221-8455-3750c0e7531c.webp",
+      "PackagePath": "staticwebassets\\images\\product\\7af240b0-bdcc-4221-8455-3750c0e7531c.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\a1cfc863-50b7-49f7-b4b9-f4b603082cff.webp",
+      "PackagePath": "staticwebassets\\images\\product\\a1cfc863-50b7-49f7-b4b9-f4b603082cff.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\b2670d97-d786-4676-a9d5-4aca00e1678c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b2670d97-d786-4676-a9d5-4aca00e1678c.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\d5e4dfe7-0695-4ae1-a381-8ffb38ee3025.webp",
+      "PackagePath": "staticwebassets\\images\\product\\d5e4dfe7-0695-4ae1-a381-8ffb38ee3025.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f28b95e4-c360-4eb8-9908-829f209f1175.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f28b95e4-c360-4eb8-9908-829f209f1175.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f2dba059-0273-4972-82b8-965e77ba636b.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\f2dba059-0273-4972-82b8-965e77ba636b.jpeg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f509819c-8e11-4a4f-982d-893b5be612b6.webp",
+      "PackagePath": "staticwebassets\\images\\product\\f509819c-8e11-4a4f-982d-893b5be612b6.webp"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\fd75dc8a-e990-46cc-b62a-c39bcf084077.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\fd75dc8a-e990-46cc-b62a-c39bcf084077.jpeg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\puspak.jpg",
+      "PackagePath": "staticwebassets\\images\\puspak.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\register.svg",
+      "PackagePath": "staticwebassets\\images\\register.svg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\rushi.png",
+      "PackagePath": "staticwebassets\\images\\rushi.png"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\sabiha.jpg",
+      "PackagePath": "staticwebassets\\images\\sabiha.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
+      "PackagePath": "staticwebassets\\images\\team dps\\098_Venkatesh Pujari_jh jpg.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\puspak.jpg",
+      "PackagePath": "staticwebassets\\images\\team dps\\puspak.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\rushi.png",
+      "PackagePath": "staticwebassets\\images\\team dps\\rushi.png"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\sabiha.jpg",
+      "PackagePath": "staticwebassets\\images\\team dps\\sabiha.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
+      "PackagePath": "staticwebassets\\team dps\\098_Venkatesh Pujari_jh jpg.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\puspak.jpg",
+      "PackagePath": "staticwebassets\\team dps\\puspak.jpg"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\rushi.png",
+      "PackagePath": "staticwebassets\\team dps\\rushi.png"
+    },
+    {
+      "Id": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\sabiha.jpg",
+      "PackagePath": "staticwebassets\\team dps\\sabiha.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceWebProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceWebProject.props",
+      "PackagePath": "build\\EcommerceWebProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWebProject.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWebProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWebProject.props",
+      "PackagePath": "buildTransitive\\EcommerceWebProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

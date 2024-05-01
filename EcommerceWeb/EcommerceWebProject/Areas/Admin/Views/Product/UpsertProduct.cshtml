@@ -1,0 +1,96 @@
+﻿@model ProductVM
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="Product.Id" hidden />
+    <input asp-for="Product.ImageURl" hidden />
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100 border-50">
+            <div class="col-xl-6">
+                <div class="card card-registration my-4">
+                    <div class="card-body p-md-5 text-black">
+                        <h1 class="mb-5 text-uppercase" style="text-align:center">@(Model.Product.Id != 0 ? "Update" : "Create") Product</h1>
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <div class="form-outline mb-2">
+                            <img src="https://img.freepik.com/free-vector/business-woman-enjoys-video-with-buyer-shopping-sprees-shopping-sprees-video-haul-video-content-beauty-fashion-lifestyle-channel-concept_335657-2251.jpg?w=996&t=st=1707922471~exp=1707923071~hmac=723a04eabccf9312ebac4d820d78232059756e450cb190d5d98547eb07b25b5b"
+                                 alt="Sample photo" class="img-fluid" style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem; max-height: 500px;" />
+                        </div>
+
+                        <div class="form-outline mb-2">
+                            <label asp-for="Product.ProductName" class="form-label"></label>
+                            <input asp-for="Product.ProductName" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.ProductName" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Storage" class="form-label"></label>
+                            <input asp-for="Product.Storage" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Storage" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Brand" class="form-label"></label>
+                            <input asp-for="Product.Brand" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Brand" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Color" class="form-label"></label>
+                            <input asp-for="Product.Color" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Color" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Description1" class="form-label"></label>
+                            <input asp-for="Product.Description1" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Description1" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Description2" class="form-label"></label>
+                            <input asp-for="Product.Description2" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Description2" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Description3" class="form-label"></label>
+                            <input asp-for="Product.Description3" type="text" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Description3" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.Price" class="form-label"></label>
+                            <input asp-for="Product.Price" type="number" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.Price" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.DisccountPrice" class="form-label"></label>
+                            <input asp-for="Product.DisccountPrice" type="number" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+                            <span asp-validation-for="Product.DisccountPrice" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.CategoryId" class="form-label"></label>
+                            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" id="form3Example8" class="form-select shadow" style="height: 40px;">
+                                <option disabled selected>--Select Category--</option>
+                            </select>
+                            <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="form-outline mb-4">
+                            <label asp-for="Product.ImageURl" class="form-label"></label>
+                            <input type="file" name="file" id="form3Example8" class="form-control form-control-lg shadow" style="height: 40px;" />
+
+                        </div>
+                        <div class="d-flex justify-content-end pt-3">
+                            <a asp-controller="Product" asp-action="Index" class="btn btn-info btn-md ms-2 rounded-pill"><i class="fa-solid fa-backward fa-xl"></i> Back to List</a>
+                            @if (Model.Product.Id != 0)
+                            {
+                                <button type="submit" class="btn btn-success btn-md ms-2 rounded-pill"><i class="fa-solid fa-check fa-xl" style="color: #ffffff;"></i> Update Product</button>
+                            }
+                            else
+                            {
+                                <button type="submit" class="btn btn-success btn-md ms-2 rounded-pill"><i class="fa-solid fa-check fa-xl" style="color: #ffffff;"></i> Add Product</button>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
